@@ -10,9 +10,9 @@
 | **ML.Project_2** | Методы контролируемого обучения, линейные модели, регуляризация, переобучение и метрики для оценки качества моделей.              |[Project 2](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_2/src/notebook.ipynb)|
 | **ML.Project_3** | Методы валидации, измерение качества модели. Оптимизация гиперпараметров модели и применение различных методов выбора признаков.  |[Project 3](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_3/src/notebook.ipynb)| 
 | **ML.Project_4** | Задачи классификации и алгоритмы машинного обучения, используемых для их решения.                                                 |[Project 4](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_4/src/notebook.ipynb)|
-| **ML.Project_5** | Деревья решений (CART) и методы ансамблей (Random Forest и GBDT), их принципы и практическая реализация.                          ||
-| **ML.Project_6** | Задачи неконтролируемого обучения с особым упором на уменьшение размерности.                                                      ||
-| **ML.Project_7** | Алгоритмы кластеризации, их реализация. Интеграция с контролируемым обучением, используя метки кластеров. Оценка качества моделей.||
+| **ML.Project_5** | Деревья решений (CART) и методы ансамблей (Random Forest и GBDT), их принципы и практическая реализация.                          |[Project 5](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_5/src/notebook.ipynb)|
+| **ML.Project_6** | Задачи неконтролируемого обучения с особым упором на уменьшение размерности.                                                      |[Project 6](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_6/src/notebook.ipynb)|
+| **ML.Project_7** | Алгоритмы кластеризации, их реализация. Интеграция с контролируемым обучением, используя метки кластеров. Оценка качества моделей.|[Project 7](https://nbviewer.org/github/xeocean/ML_Projects/blob/master/ML.Project_7/src/notebook.ipynb)|
 | **ML.Project_8** | Введение в нейронные сети.                                                                                                        ||
 | **ML.Project_9** | Сверточные нейронные сети и задачи классификации изображений.                                                                     ||
 | **ML.Project_10** | Рекуррентные нейронные сети (RNN) и их эволюция в продвинутые архитектуры, такие как LSTM и GRU.                                 ||
